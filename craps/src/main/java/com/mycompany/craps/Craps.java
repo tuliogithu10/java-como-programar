@@ -21,7 +21,6 @@ public class Craps {
         int myPoint = 0; 
         Status gameStatus; 
         int sumOfDice = rollDice(); 
-        
 
         switch (sumOfDice) {
             case SEVEN: 
