@@ -39,6 +39,7 @@ public class Craps {
                 break;
     }
         
+        
         while (gameStatus == Status.CONTINUE) 
         {
             sumOfDice = rollDice(); 
